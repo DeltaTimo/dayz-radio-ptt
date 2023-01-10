@@ -1,0 +1,8 @@
+*.map
+*map
+*~
+*.swp
+*.bisign
+*.pbo
+*.lnk
+
