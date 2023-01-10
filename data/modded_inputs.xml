@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+    <inputs>
+        <actions>
+            <input name="UARadioPushToTalk" loc="Toggle transmit over radio" />
+        </actions>
+        <actions>
+            <input name="UARadioPushToTalkPTT" loc="Push-to-transmit over radio" />
+        </actions>
+    </inputs>
+    <preset>
+        <input name="UARadioPushToTalk">
+            <btn name="kP" />
+        </input>
+        <input name="UARadioPushToTalkPTT">
+            <btn name="kL" />
+        </input>
+    </preset>
+</modded_inputs>
