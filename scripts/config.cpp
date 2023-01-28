@@ -16,17 +16,17 @@ class CfgMods
       class gameScriptModule
 			{
 				value = "";
-				files[] = {"radio_ptt\scripts\3_Game"};
+				files[] = {"radio_ptt\scripts\Common", "radio_ptt\scripts\3_Game"};
 			};
       class worldScriptModule
 			{
 				value = "";
-				files[] = {"radio_ptt\scripts\4_World"};
+				files[] = {"radio_ptt\scripts\Common", "radio_ptt\scripts\4_World"};
 			};
       class missionScriptModule
 			{
 				value = "";
-				files[] = {"radio_ptt\scripts\5_Mission"};
+				files[] = {"radio_ptt\scripts\Common", "radio_ptt\scripts\5_Mission"};
 			};
 		};
 	};
